@@ -1,0 +1,323 @@
+source	name	description
+Drugs	BLOW	Cocaine
+Drugs	CANDY	Cocaine
+Drugs	COKE	Cocaine
+Drugs	DO A LINE	Cocaine
+Drugs	FREEZE	Cocaine
+Drugs	GIRL	Cocaine
+Drugs	HAPPY DUST	Cocaine
+Drugs	MAMA COCA	Cocaine
+Drugs	MOJO	Cocaine
+Drugs	MONSTER	Cocaine
+Drugs	NOSE	Cocaine
+Drugs	PIMP	Cocaine
+Drugs	SHOT	Cocaine
+Drugs	SMOKING GUN	Cocaine
+Drugs	SNOW	Cocaine
+Drugs	SUGAR	Cocaine
+Drugs	SWEET STUFF	Cocaine
+Drugs	WHITE POWDER	Cocaine
+Drugs	BASE	Crack (a form of cocaine, smokeable)
+Drugs	BEAT	Crack (a form of cocaine, smokeable)
+Drugs	BLAST	Crack (a form of cocaine, smokeable)
+Drugs	CASPER	Crack (a form of cocaine, smokeable)
+Drugs	CHALK	Crack (a form of cocaine, smokeable)
+Drugs	DEVIL	Crack (a form of cocaine, smokeable)
+Drugs	GRAVEL	Crack (a form of cocaine, smokeable)
+Drugs	HARDBALL	Crack (a form of cocaine, smokeable)
+Drugs	HELL	Crack (a form of cocaine, smokeable)
+Drugs	KRYPTONITE	Crack (a form of cocaine, smokeable)
+Drugs	LOVE	Crack (a form of cocaine, smokeable)
+Drugs	MOONROCKS	Crack (a form of cocaine, smokeable)
+Drugs	ROCK	Crack (a form of cocaine, smokeable)
+Drugs	SCRABBLE	Crack (a form of cocaine, smokeable)
+Drugs	STONES	Crack (a form of cocaine, smokeable)
+Drugs	TORNADO	Crack (a form of cocaine, smokeable)
+Drugs	BACKWARDS	Depressants
+Drugs	BLUE HEAVENS	Depressants
+Drugs	DOWNIE	Depressants
+Drugs	DROWSY HIGH	Depressants
+Drugs	GREEN DRAGONS	Depressants
+Drugs	IDIOT PILLS	Depressants
+Drugs	JOY JUICE	Depressants
+Drugs	M&M	Depressants
+Drugs	NO WORRIES	Depressants
+Drugs	PEANUT	Depressants
+Drugs	RAINBOWS	Depressants
+Drugs	RED BULLETS	Depressants
+Drugs	STOPPERS	Depressants
+Drugs	STUMBLER	Depressants
+Drugs	TOOLES	Depressants
+Drugs	YELLOW	Depressants
+Drugs	APACHE	Fentanyl
+Drugs	CHINA GIRL	Fentanyl
+Drugs	CHINA TOWN	Fentanyl
+Drugs	DANCE FEVER	Fentanyl
+Drugs	FRIEND	Fentanyl
+Drugs	GOODFELLAS	Fentanyl
+Drugs	GREAT BEAR	Fentanyl
+Drugs	HE-MAN	Fentanyl
+Drugs	JACKPOT	Fentanyl
+Drugs	KING IVORY	Fentanyl
+Drugs	MURDER 8	Fentanyl
+Drugs	POISON	Fentanyl
+Drugs	TANGO AND CASH	Fentanyl
+Drugs	TNT	Fentanyl
+Drugs	CAPS	GHB (Gamma-hydroxybutyric acid)
+Drugs	CHERRY METH	GHB (Gamma-hydroxybutyric acid)
+Drugs	EVER CLEAR	GHB (Gamma-hydroxybutyric acid)
+Drugs	EASY LAY	GHB (Gamma-hydroxybutyric acid)
+Drugs	FANTASY	GHB (Gamma-hydroxybutyric acid)
+Drugs	G	GHB (Gamma-hydroxybutyric acid)
+Drugs	G-RIFFIC	GHB (Gamma-hydroxybutyric acid)
+Drugs	GAMMA HYDRATE	GHB (Gamma-hydroxybutyric acid)
+Drugs	GEORGIA HOME BOY	GHB (Gamma-hydroxybutyric acid)
+Drugs	GRIEVOUS BODILY HARM	GHB (Gamma-hydroxybutyric acid)
+Drugs	LIQUID ECSTASY	GHB (Gamma-hydroxybutyric acid)
+Drugs	LIQUID X	GHB (Gamma-hydroxybutyric acid)
+Drugs	SOAP	GHB (Gamma-hydroxybutyric acid)
+Drugs	SODIUM OXYBATE	GHB (Gamma-hydroxybutyric acid)
+Drugs	AUNT HAZEL	Heroin
+Drugs	BIG H	Heroin
+Drugs	BLACK PEARL	Heroin
+Drugs	BROWN SUGAR	Heroin
+Drugs	CAPITAL H	Heroin
+Drugs	CHARLEY	Heroin
+Drugs	CHINA WHITE	Heroin
+Drugs	DOPE	Heroin
+Drugs	GOOD HORSE	Heroin
+Drugs	H	Heroin
+Drugs	HARD STUFF	Heroin
+Drugs	HERO	Heroin
+Drugs	HEROINA	Heroin
+Drugs	LITTLE BOY	Heroin
+Drugs	MUD	Heroin
+Drugs	PERFECT HIGH	Heroin
+Drugs	SMACK	Heroin
+Drugs	STUFF	Heroin
+Drugs	TAR	Heroin
+Drugs	AIR BLAST	Inhalants
+Drugs	BOLT	Inhalants
+Drugs	BOPPERS	Inhalants
+Drugs	BULLET BOLT	Inhalants
+Drugs	CLIMAX	Inhalants
+Drugs	DISCORAMA	Inhalants
+Drugs	HARDWARE	Inhalants
+Drugs	HEART-ON	Inhalants
+Drugs	HIGHBALL	Inhalants
+Drugs	HONEY OIL	Inhalants
+Drugs	HUFF	Inhalants
+Drugs	LAUGHING GAS	Inhalants
+Drugs	MEDUSA	Inhalants
+Drugs	MOON GAS	Inhalants
+Drugs	SATAN’S SECRET	Inhalants
+Drugs	THRUST	Inhalants
+Drugs	WHITEOUT	Inhalants
+Drugs	BUMP	Ketamine
+Drugs	CAT KILLER	Ketamine
+Drugs	CAT VALIUM	Ketamine
+Drugs	FORT DODGE	Ketamine
+Drugs	GREEN	Ketamine
+Drugs	HONEY OIL	Ketamine
+Drugs	JET	Ketamine
+Drugs	K	Ketamine
+Drugs	KET	Ketamine
+Drugs	KIT KAT	Ketamine
+Drugs	PSYCHEDELIC HEROIN	Ketamine
+Drugs	PURPLE	Ketamine
+Drugs	SPECIAL K	Ketamine
+Drugs	SPECIAL LA COKE	Ketamine
+Drugs	SUPER ACID	Ketamine
+Drugs	SUPER C	Ketamine
+Drugs	VITAMIN K	Ketamine
+Drugs	A	LSD (Lysergic acid diethylamide)
+Drugs	ACID	LSD (Lysergic acid diethylamide)
+Drugs	BLACK STAR	LSD (Lysergic acid diethylamide)
+Drugs	BLOTTER	LSD (Lysergic acid diethylamide)
+Drugs	BOOMERS	LSD (Lysergic acid diethylamide)
+Drugs	CUBES	LSD (Lysergic acid diethylamide)
+Drugs	ELVIS	LSD (Lysergic acid diethylamide)
+Drugs	GOLDEN DRAGON	LSD (Lysergic acid diethylamide)
+Drugs	L	LSD (Lysergic acid diethylamide)
+Drugs	MICRODOT	LSD (Lysergic acid diethylamide)
+Drugs	PAPER ACID	LSD (Lysergic acid diethylamide)
+Drugs	PINK ROBOTS	LSD (Lysergic acid diethylamide)
+Drugs	SUPERMAN	LSD (Lysergic acid diethylamide)
+Drugs	TWENTY-FIVE	LSD (Lysergic acid diethylamide)
+Drugs	YELLOW SUNSHINE	LSD (Lysergic acid diethylamide)
+Drugs	YING YANG	LSD (Lysergic acid diethylamide)
+Drugs	420	Marijuana
+Drugs	AUNT MARY	Marijuana
+Drugs	BABY	Marijuana
+Drugs	BOBBY	Marijuana
+Drugs	BOOM	Marijuana
+Drugs	CHIRA	Marijuana
+Drugs	CHRONIC	Marijuana
+Drugs	DITCH	Marijuana
+Drugs	GANJA	Marijuana
+Drugs	GRASS	Marijuana
+Drugs	GREENS	Marijuana
+Drugs	HASH	Marijuana
+Drugs	HERB	Marijuana
+Drugs	MARY JANE	Marijuana
+Drugs	NIGRA	Marijuana
+Drugs	POT	Marijuana
+Drugs	REEFER	Marijuana
+Drugs	RIP	Marijuana
+Drugs	ROOT	Marijuana
+Drugs	SKUNK	Marijuana
+Drugs	STACK	Marijuana
+Drugs	TORCH	Marijuana
+Drugs	WEED	Marijuana
+Drugs	ZAMBI	Marijuana
+Drugs	ADAM	MDMA (Methylenedioxy-methamphetamine)
+Drugs	BEAN	MDMA (Methylenedioxy-methamphetamine)
+Drugs	BLUE KISSES	MDMA (Methylenedioxy-methamphetamine)
+Drugs	CLARITY	MDMA (Methylenedioxy-methamphetamine)
+Drugs	CLUB DRUG	MDMA (Methylenedioxy-methamphetamine)
+Drugs	DISCO BISCUITS	MDMA (Methylenedioxy-methamphetamine)
+Drugs	E	MDMA (Methylenedioxy-methamphetamine)
+Drugs	ECSTASY	MDMA (Methylenedioxy-methamphetamine)
+Drugs	HUG DRUG	MDMA (Methylenedioxy-methamphetamine)
+Drugs	LOVE DRUG	MDMA (Methylenedioxy-methamphetamine)
+Drugs	LOVER’S SPEED	MDMA (Methylenedioxy-methamphetamine)
+Drugs	MERCEDES	MDMA (Methylenedioxy-methamphetamine)
+Drugs	MOLLY	MDMA (Methylenedioxy-methamphetamine)
+Drugs	NEW YORKERS	MDMA (Methylenedioxy-methamphetamine)
+Drugs	PEACE	MDMA (Methylenedioxy-methamphetamine)
+Drugs	ROLL	MDMA (Methylenedioxy-methamphetamine)
+Drugs	WHITE DOVE	MDMA (Methylenedioxy-methamphetamine)
+Drugs	X	MDMA (Methylenedioxy-methamphetamine)
+Drugs	XTC	MDMA (Methylenedioxy-methamphetamine)
+Drugs	BEANS	Mescaline
+Drugs	BUTTONS	Mescaline
+Drugs	CACTUS	Mescaline
+Drugs	CACTUS BUTTONS	Mescaline
+Drugs	CACTUS HEAD	Mescaline
+Drugs	CHIEF	Mescaline
+Drugs	LOVE TRIP	Mescaline
+Drugs	MESC	Mescaline
+Drugs	MESCAL	Mescaline
+Drugs	MEZC	Mescaline
+Drugs	MOON	Mescaline
+Drugs	PEYOTE	Mescaline
+Drugs	TOPI	Mescaline
+Drugs	BEANNIES	Methamphetamine
+Drugs	BLUE DEVILS	Methamphetamine
+Drugs	CHALK	Methamphetamine
+Drugs	CR	Methamphetamine
+Drugs	CRANK	Methamphetamine
+Drugs	CRYSTAL	Methamphetamine
+Drugs	CRYSTAL METH	Methamphetamine
+Drugs	FAST	Methamphetamine
+Drugs	GRANULATED ORANGE	Methamphetamine
+Drugs	ICE	Methamphetamine
+Drugs	METH	Methamphetamine
+Drugs	MEXICAN CRACK	Methamphetamine
+Drugs	PINK	Methamphetamine
+Drugs	ROCK	Methamphetamine
+Drugs	SPECKLED BIRDS	Methamphetamine
+Drugs	SPEED	Methamphetamine
+Drugs	TINA	Methamphetamine
+Drugs	YELLOW POWDER	Methamphetamine
+Drugs	BATHTUB SPEED	Methcathinone
+Drugs	CADILLAC EXPRESS	Methcathinone
+Drugs	CAT	Methcathinone
+Drugs	CRANK	Methcathinone
+Drugs	EPHEDRONE	Methcathinone
+Drugs	GAGERS	Methcathinone
+Drugs	GO-FAST	Methcathinone
+Drugs	GOOB	Methcathinone
+Drugs	QAT	Methcathinone
+Drugs	SLICK SUPERSPEED	Methcathinone
+Drugs	STAR	Methcathinone
+Drugs	THE C	Methcathinone
+Drugs	TWEEKER	Methcathinone
+Drugs	WILD CAT	Methcathinone
+Drugs	WONDER STAR	Methcathinone
+Drugs	AH-PEN-YEN	Opium
+Drugs	AUNTI	Opium
+Drugs	BIG O	Opium
+Drugs	BLACK STUFF	Opium
+Drugs	CHINESE TOBACCO	Opium
+Drugs	CHOCOLATE	Opium
+Drugs	DOPIUM	Opium
+Drugs	DOVER’S DECK	Opium
+Drugs	DREAM GUN	Opium
+Drugs	HARD STUFF	Opium
+Drugs	HOCUS	Opium
+Drugs	JOY PLANT	Opium
+Drugs	O	Opium
+Drugs	OPE	Opium
+Drugs	PIN YEN	Opium
+Drugs	TOXY	Opium
+Drugs	ZERO	Opium
+Drugs	ANGEL DUST	PCP (Phencyclidine)
+Drugs	BELLADONNA	PCP (Phencyclidine)
+Drugs	BLACK WHACK	PCP (Phencyclidine)
+Drugs	CJ	PCP (Phencyclidine)
+Drugs	CLIFFHANGER	PCP (Phencyclidine)
+Drugs	CRYSTAL JOINT	PCP (Phencyclidine)
+Drugs	DETROIT PINK	PCP (Phencyclidine)
+Drugs	ELEPHANT TRANQUILIZER	PCP (Phencyclidine)
+Drugs	HOG	PCP (Phencyclidine)
+Drugs	MAGIC	PCP (Phencyclidine)
+Drugs	PETER PAN	PCP (Phencyclidine)
+Drugs	SHEETS	PCP (Phencyclidine)
+Drugs	SOMA	PCP (Phencyclidine)
+Drugs	TAC	PCP (Phencyclidine)
+Drugs	TRANK	PCP (Phencyclidine)
+Drugs	WHITE HORIZON	PCP (Phencyclidine)
+Drugs	ZOOM	PCP (Phencyclidine)
+Drugs	BOOMERS	Psilocybin/psilocin
+Drugs	GOD’S FLESH	Psilocybin/psilocin
+Drugs	LITTLE SMOKE	Psilocybin/psilocin
+Drugs	MAGIC MUSHROOM	Psilocybin/psilocin
+Drugs	MEXICAN MUSHROOMS	Psilocybin/psilocin
+Drugs	MUSHROOMS	Psilocybin/psilocin
+Drugs	MUSK	Psilocybin/psilocin
+Drugs	SHERM	Psilocybin/psilocin
+Drugs	SHROOMS	Psilocybin/psilocin
+Drugs	SILLY PUTTY	Psilocybin/psilocin
+Drugs	SIMPLE SIMON	Psilocybin/psilocin
+Drugs	CRACKERS	Ritalin
+Drugs	ONE AND ONES	Ritalin
+Drugs	PHARMING	Ritalin
+Drugs	POOR MAN’S HEROIN	Ritalin
+Drugs	R-BALL	Ritalin
+Drugs	RITZ ANTS	Ritalin
+Drugs	SET	Ritalin
+Drugs	SKIPPY	Ritalin
+Drugs	SPEEDBALL	Ritalin
+Drugs	TS AND RITZ	Ritalin
+Drugs	TS AND RS	Ritalin
+Drugs	VITAMIN R	Ritalin
+Drugs	WEST COAST	Ritalin
+Drugs	CIRCLES	Rohypnol
+Drugs	FORGET-ME PILL	Rohypnol
+Drugs	LA ROCHA	Rohypnol
+Drugs	LUNCH MONEY DRUG	Rohypnol
+Drugs	MEXICAN VALIUM	Rohypnol
+Drugs	PINGUS	Rohypnol
+Drugs	R2	Rohypnol
+Drugs	REYNOLDS	Rohypnol
+Drugs	ROCHE	Rohypnol
+Drugs	ROOFIES	Rohypnol
+Drugs	ROPE	Rohypnol
+Drugs	RUFFLES	Rohypnol
+Drugs	WOLFIES	Rohypnol
+Drugs	ABOLIC	Steroids
+Drugs	ANADROL	Steroids
+Drugs	ARNOLDS	Steroids
+Drugs	BOLASTERONE	Steroids
+Drugs	DIHYDROLONE	Steroids
+Drugs	EQUIPOSE	Steroids
+Drugs	GYM CANDY	Steroids
+Drugs	JUICE	Steroids
+Drugs	METHYL TESTOSTERONE	Steroids
+Drugs	PROVIRON	Steroids
+Drugs	PUMPERS	Steroids
+Drugs	STACKERS	Steroids
+Drugs	THEROBOLIN	Steroids
+Drugs	WEIGHT TRAINERS	Steroids
+Drugs	WINSTROL V	Steroids

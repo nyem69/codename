@@ -1,0 +1,12 @@
+Malay	name
+Malay	Kosong
+Malay	Satu
+Malay	Dua
+Malay	Tiga
+Malay	Empat
+Malay	Lima
+Malay	Enam
+Malay	Tujuh
+Malay	Lapan
+Malay	Sembilan
+Malay	Sepuluh

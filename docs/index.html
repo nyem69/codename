@@ -1,0 +1,235 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="imagetoolbar" content="no">
+
+	<title>codename generator</title>
+	<meta name="description" content="codename generator">
+	<meta name="apple-mobile-web-app-title" content="codename generator"><!-- 12 characters only -->
+	<meta name="author" content="nyem69@gmail.com">
+	<meta name="apple-mobile-web-app-capable" content="yes" />
+	<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+	<meta name="viewport" content="width=1024, user-scalable=yes">
+
+	<link rel="stylesheet" href="//lib.aga.my/font/ibm-plex/css/ibm-type.min.css" type="text/css" charset="utf-8" />
+	<link type="text/css" rel="stylesheet" href="//lib.aga.my/clarity-ui/0.9.15/clarity-ui.min.css"/>
+	<link type="text/css" rel="stylesheet" href="//lib.aga.my/clarity-icons/0.9.15/clarity-icons.min.css"/>
+	<script type="text/javascript" src="//lib.aga.my/clarity-icons/0.9.15/clarity-icons.min.js"></script>
+
+<!--
+	<link type="text/css" rel="stylesheet" href="//lib.aga.my/font/awesome/4.7.0/css/font-awesome.min.css"/>
+	<script type="text/javascript" src="//lib.aga.my/font/awesome/4.7.0/css/font-svg.js"></script>
+-->
+
+	<script type="text/javascript" src="//lib.aga.my/jquery/jquery-2.2.0.min.js"></script>
+	<script type="text/javascript" src="//lib.aga.my/d3/4.12.0/d3.v4.min.js"></script>
+	<script type="text/javascript" src="//lib.aga.my/d3/4.12.0/d3-selection-multi.v1.min.js"></script>
+	<script type="text/javascript" src="//lib.aga.my/d3/plugins/d3.comparator.js"></script>
+	<script type="text/javascript" src="//lib.aga.my/d3-plugins/queue/3.0.3/d3-queue.v3.min.js"></script>
+	<script type="text/javascript" src="//lib.aga.my/mobile-detect/0.4.3/mobile-detect.min.js"></script>
+	<script type="text/javascript" src="//lib.aga.my/URI/1.14.1/src/URI.min.js"></script>
+	<script type="text/javascript" src="//lib.aga.my/pym/1.3.2/pym.v1.min.js"></script>
+	<script type="text/javascript" src="//lib.aga.my/requirejs/2.1.15/require.js"></script>
+	<script type="text/javascript" src="//lib.aga.my/params.js"></script>
+	<script type="text/javascript" src="1/app.js"></script>
+
+
+	<style>
+
+		/* prevent overscroll on chome mac */
+		html {
+		    overflow: hidden;
+		    height: 100%;
+		}
+
+		body {
+		    height: 100%;
+		    overflow: auto;
+		}
+		/* prevent overscroll on chome mac */
+
+
+
+
+
+		body {
+			margin-top:0;
+			min-height:768px;
+
+			font-family: 'ibm-plex-sans', sans-serif;
+		}
+
+
+		body, .main-container, .main-tr {
+			background-color:#949191;
+			/*
+			background-image:url('//static.aga.my/texture/otis_redding/otis_redding.png');
+			http://static.diablo.aga.my/texture/grid/grid.png
+			*/
+			background-image:url('//static.aga.my/texture/grid/grid.png');
+			color:#fff;
+		}
+
+/*
+		=> M.style.subnav
+
+		.subnav {
+			background:#949191;
+			color:#fff;
+		}
+*/
+
+		.header {
+			background:#000;
+		}
+
+/*
+		header, .header, .header-nav, .flex-basis {
+			height:30px !important;
+		}
+*/
+
+/*
+		form .form-group, .form .form-group {
+			padding-left:100px !important;
+		}
+*/
+
+		.sub-nav, .subnav {
+			box-shadow:none;
+		}
+
+		.content-area {
+			overflow-x:visible;
+		}
+
+		.sidenav1 {
+			border-right:none;
+
+			overflow-x:scroll !important;
+			overflow-y:scroll !important;
+
+			width: 400px !important;
+			min-width: 400px !important;
+
+			/*
+			padding-right:12px;
+			overflow-x:hidden;
+			min-height:1500px;
+			*/
+
+			padding:6px 0 200px 0;
+		}
+
+
+		.sidenav2 {
+			border-right:none;
+
+			overflow-x:scroll !important;
+			overflow-y:scroll !important;
+
+			width: 100px !important;
+			min-width: 100px !important;
+
+			padding:6px 0 200px 0;
+		}
+
+
+		svg text {
+			pointer-events:none;
+		}
+
+		.card {
+			background:none;
+			box-shadow:none;
+			border-color:#333;
+			margin-top:0;
+		}
+
+		.card .card-header, .card .card-block {
+			border-bottom:1px solid #333;
+			color:#fff;
+		}
+
+		.card .card-header, .card.card-block, .card .card-block, .card .card-footer {
+			padding:6px 12px 6px 12px;
+		}
+
+		.nav-link.active {
+
+			/*
+			background-color:#CD3517 !important;
+			background-color:#0065AB !important;
+			*/
+			background-color:#007CBB !important;
+
+
+		}
+
+		select {
+			color:#ddd;
+			/*
+			border-bottom-color:#003 !important;
+			max-width:150px;
+			min-width:150px;
+			*/
+
+			max-width:180px;
+
+		}
+
+		table {
+			margin-top:0 !important;
+		}
+
+		.badge {
+			font-size:14px;
+		}
+
+
+		.border-stroke {
+			stroke:#000;
+		}
+
+		.border-stroke-dun, .border-stroke-pdm {
+			display:none;
+		}
+
+
+	</style>
+
+
+
+</head>
+<body>
+
+
+<script type="text/javascript">
+
+// add padding-top for IOS status bar for black-translucent
+if (window.navigator.standalone) {
+	if (d3.selectAll('meta').filter(function(){
+		var sel = d3.select(this);
+		return sel.property('name')=='apple-mobile-web-app-status-bar-style' && sel.property('content')=='black-translucent';
+		})[0].length>0
+	){
+		d3.select('body').style('padding-top','20px');
+	};
+}
+
+pym.Child({ polling: 300 });
+
+if (!document.location.host.match(/diablo/i))	{
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-30759456-3', 'aga.my');
+  ga('send', 'pageview');
+}
+</script>
+</body>
+</html>

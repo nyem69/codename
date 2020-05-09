@@ -1,0 +1,137 @@
+source	name	description
+Vampires	ALESSANDRO	defender of mankind
+Vampires	AMBROGINO	little immortal one
+Vampires	AMBROGIO	immortal
+Vampires	ARNOLDO	eagle power
+Vampires	BALDOVINO	brave friend
+Vampires	BALDASSARE	Protect the king
+Vampires	BERTOLDO	bright ruler
+Vampires	BONAVENTURA	good fortune
+Vampires	BONIFACIO	meaning "good destiny
+Vampires	CIRINO	like the sun
+Vampires	CIRO	like the sun
+Vampires	CLEMENTE	gentle and merciful
+Vampires	DARIO	possesses a lot
+Vampires	DOMENICO	belongs to the lord
+Vampires	EDMONDO	protector of prosperity
+Vampires	EDOARDO	guardian of prosperity
+Vampires	EGIDIO	shield of goatskin
+Vampires	ELIGIO	to choose
+Vampires	ELIODORO	gift of the sun
+Vampires	EMILIO	rival
+Vampires	ERMANNO	army man
+Vampires	ETTORE	meaning "defender
+Vampires	FARAMUNDO	journey protection
+Vampires	FINO	burning one or serpent
+Vampires	Serafino	burning one or serpent
+Vampires	GASPARE	treasure bearer
+Vampires	GREGARIO	watchful
+Vampires	GUALTIERO	ruler of the army
+Vampires	LEANDRO	lion-man
+Vampires	MARCO	defender of the sea
+Vampires	MASSIMO	the greatest
+Vampires	NERIO	wet one
+Vampires	NUNZIO	announces
+Vampires	ORAZIO	has good eyesight
+Vampires	ORFEO	darkness
+Vampires	PELLEGRINO	wanderer
+Vampires	PONZIO	of the sea
+Vampires	RAUL	wise wolf
+Vampires	RODOLFO	famous wolf
+Vampires	SANSONE	like the sun
+Vampires	SILVANO	from the forest
+Vampires	TACITO	mute, silent
+Vampires	UMFREDO	giant peace
+Vampires	ADRASTEIA	inescapable
+Vampires	AKANTHA	thorn
+Vampires	AKELDAMA	field of blood
+Vampires	AMBROSIA	immortal
+Vampires	CALLIDORA	gift of beauty
+Vampires	DESPOINA	mistress
+Vampires	EVA	life
+Vampires	IEZABEL	chaste
+Vampires	KHARIS	charm / grace
+Vampires	KORA	maiden
+Vampires	MAIA	nursing mother
+Vampires	NARKISSA	numbness / sleep
+Vampires	NATÁSA	resurrection
+Vampires	NATASSA	resurrection
+Vampires	NERINE	sea sprite
+Vampires	POLONA	of Apollo
+Vampires	SELENE	moon
+Vampires	SEMELE	of the underworld
+Vampires	THANA	death
+Vampires	THYIA	Bacchic frenzy
+Vampires	THYONE	inspired frenzy
+Mythical Creatures	Alicorn	The name for a winged unicorn.
+Mythical Creatures	Banshee	A spirit appearing as a frenzied old woman whose high pitched shriek prophesied a death soon to come.
+Mythical Creatures	Basilisk	A legendary lizard who could kill a man with its stare.
+Mythical Creatures	Bigfoot	A type of Sasquatch native to North American forests.
+Mythical Creatures	Black Dog	An evil spirit dog that stalks city streets at night.
+Mythical Creatures	Black Eyed Beings 	They take human form but have black, soulless eyes and emanate a sense of pure evil.
+Mythical Creatures	Bogeyman	A semi-corporeal being whose sole purpose is to scare children.
+Mythical Creatures	Bogle	A ghostly being whose purpose is to confuse and scare humans and other creatures.
+Mythical Creatures	Bray Road Beast 	The nickname for a werewolf-like creature seen multiple times in Wisconsin.
+Mythical Creatures	Brownies	Small humanoid creatures wearing all brown clothing who sneak into homes at night to help with household chores.
+Mythical Creatures	Centaur 	Half-men, half-horse creatures that ran wild and unruly.
+Mythical Creatures	Cerberus 	The three-headed dog that guards the entrance to Hades.
+Mythical Creatures	Charybdis 	The whirlpool on one side of the Strait of Messina that swallowed ships that came too close to it.
+Mythical Creatures	Chimera 	Part-lion, part-goat, part-snake	all monster.
+Mythical Creatures	Cockatrice	A flying part-rooster/part-snake that could kill with its stare.
+Mythical Creatures	Cyclops	The one-eyed giant who captured and ate people.
+Mythical Creatures	Cynocephalus 	A member of an ancient race of men with the heads of dogs.
+Mythical Creatures	Demon 	Malevolent spirits of Hell who battle humans for control of their souls.
+Mythical Creatures	Doppelganger 	Apparitions of people that occur in impossible situations.
+Mythical Creatures	Dragon	Giant, flying, fire-breathing lizards who often guard treasure.
+Mythical Creatures	Dwarf	A short, stalky humanoid who live in underground mining communities.
+Mythical Creatures	Echidna 	The snake-woman who became the mother of most Greek monsters.
+Mythical Creatures	Elf	A race of pointy-eared humanoids who excel in magic and archery.
+Mythical Creatures	Fairy 	A small, flying humanoid with magical abilities.
+Mythical Creatures	Ghosts	Spirits of the dead whose souls remain in the realm of the living.
+Mythical Creatures	Gnome	A small, humanoid creature who lives and moves beneath the earth.
+Mythical Creatures	Goblin	A grotesque, troublesome little creature with a strong greed for gold and jewels.
+Mythical Creatures	Golem 	Magically animated human-shaped creatures typically made of solid stone.
+Mythical Creatures	Gorgon	The snake-haired and snake-bodied humanoid that was created in its mother's image. Its stare could turn a person to stone. Medusa became one of these creatures in a later myth.
+Mythical Creatures	Griffin 	A creature with the body of a lion, the tail of a snake, and the head and wings of an eagle.
+Mythical Creatures	Grim Reaper	The embodiment of death itself, the Grim Reaper comes to take your soul to the afterlife.
+Mythical Creatures	Hobgoblin	A type of Brownie who is inherently less helpful and more mischievous, even to the point of causing harm if antagonized.
+Mythical Creatures	Hydra	The nine-headed serpent who grew two new heads for every one that was cut off.
+Mythical Creatures	Imp	Small, mischievous creatures who liked to play pranks on people.
+Mythical Creatures	Ladon (Python)	The snake that guarded the golden apples in the Garden of the Hesperides.
+Mythical Creatures	Leprechauns	Small, bearded men who have a pot of gold at the end of the rainbow.
+Mythical Creatures	Loch Ness Monster	The elusive sea-monster from the Loch Ness in Scotland.
+Mythical Creatures	Manticore 	A mythical beast with a lion's body and a human's head.
+Mythical Creatures	Medusa	A disciple of Athena who was turned into a gorgon.  She had the hair of snakes and could turn men to stone with her gaze.
+Mythical Creatures	Mermaids 	Sea creatures with the head and torso of a woman and the tail of a fish.
+Mythical Creatures	Minotaur 	The creature with the head and legs of a bull and the torso of a man, who guarded the exit to The Labyrinth.
+Mythical Creatures	Mothman 	A winged creature in the shape of a man with hypnotic red eyes sighted in West Virginia.
+Mythical Creatures	Mutants 	A term describing abnormal creatures created by genetic or environmental mutations.
+Mythical Creatures	Nemean Lion 	The giant lion with impenetrable hide who becomes the constellation Leo.
+Mythical Creatures	New Jersey Devil 	A flying creature with a high-pitched scream and a horse-like head native to the New Jersey Pine Barrens.
+Mythical Creatures	Nymph	Divine female nature spirits who inhabit certain natural sites.
+Mythical Creatures	Ogre	An ugly, oversized humanoid creature with great physical strength and little intelligence.
+Mythical Creatures	Orthros 	The two-headed monster dog.
+Mythical Creatures	Pegasus	Technically the proper name of Bellerophon's winged horse, which became the general name for winged horses.
+Mythical Creatures	Phoenix	The golden bird who, at the end of its life, burst into flames only to be reborn again.
+Mythical Creatures	Pixie	A small humanoid creature with pointy ears who likes to cause mischief.
+Mythical Creatures	Sasquatch	Large, hairy, man-like beasts that live in the woods.
+Mythical Creatures	Satyr	Half-men, half-goats who were wild and lustful.  The god Pan was one of these.
+Mythical Creatures	Scylla 	The man-eating beast that lived on the opposite side of the Strait of Messina from Charybdis.
+Mythical Creatures	Sea Monsters	The generic term for several breeds of water-based monsters.
+Mythical Creatures	Sea-Goat 	The half-goat, half-fish who are the children of Pricus, who becomes the constellation Capricorn.
+Mythical Creatures	Shade	The ghosts of dead people before they are admitted entrance to Hades.
+Mythical Creatures	Shapeshifters 	Humans who can willingly take the form of an animal while maintaining their consciousness.
+Mythical Creatures	Sirens 	Man-eating beautiful women whose song compels men to them.
+Mythical Creatures	Sphinx	The half-human, half-lion that forces those it meets to answer its riddles, or die.
+Mythical Creatures	Sprite	A category of elemental, fairy-like spirits, invisible to humans (a Sylph is one of these).
+Mythical Creatures	Sylph	An invisible, fairy-like being dedicated to the element of air.
+Mythical Creatures	Thunderbird 	A giant bird that creates storms with its wings.
+Mythical Creatures	Typhon 	The fire-breathing giant who challenged Zeus for control of Mount Olympus. Also the father of most Greek monsters.
+Mythical Creatures	Unicorn 	A magical horse with a single horn on its forehead.
+Mythical Creatures	Valkyries	Mythical Norse female divinities who choose heroes to die in battle and carry them to the great Valhalla.
+Mythical Creatures	Vampire 	Legend's most charming bloodsucker gets a whole section of this website all to itself.
+Mythical Creatures	Wendigo 	An evil spirit that possesses humans and turns them into cannibals.
+Mythical Creatures	Will-o'-the-wisp 	Strange flame-like lights that seem to beckon travelers to follow.
+Mythical Creatures	Werewolf 	Human by day, wolf by night.
+Mythical Creatures	Wraith	Evil spirits of the dead who are trapped on Earth.
+Mythical Creatures	Zombie 	The living dead who feed on human flesh.
